@@ -1,6 +1,6 @@
 # Machine Learning Practicals
 
-This repository contains practical works completed during the "SD-TSIA210: Machine Learning" course in the second year at Télécom Paris.
+This repository contains practical works completed during the "SD-TSIA210: Machine Learning" course in my second year at Télécom Paris.
 
 ## Course Overview
 
